@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/RanTour-TourWebsite/static/css/main.30c94ee8.css",
-    "main.js": "/RanTour-TourWebsite/static/js/main.9c12936b.js",
+    "main.js": "/RanTour-TourWebsite/static/js/main.eb84e7ba.js",
     "static/js/787.9288763a.chunk.js": "/RanTour-TourWebsite/static/js/787.9288763a.chunk.js",
     "index.html": "/RanTour-TourWebsite/index.html",
     "main.30c94ee8.css.map": "/RanTour-TourWebsite/static/css/main.30c94ee8.css.map",
-    "main.9c12936b.js.map": "/RanTour-TourWebsite/static/js/main.9c12936b.js.map",
+    "main.eb84e7ba.js.map": "/RanTour-TourWebsite/static/js/main.eb84e7ba.js.map",
     "787.9288763a.chunk.js.map": "/RanTour-TourWebsite/static/js/787.9288763a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30c94ee8.css",
-    "static/js/main.9c12936b.js"
+    "static/js/main.eb84e7ba.js"
   ]
 }
